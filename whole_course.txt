@@ -1,0 +1,237 @@
+Rational decisions
+
+Rational: maximally achieving pre-defined goals
+
+Rationality only concerns what decisions are made
+
+(not the thought process behind them)
+
+Goals are expressed in terms of the utility of outcomes
+
+Being rational means maximizing your expected utility
+
+
+An agent is an entity that perceives and acts.
+
+McCulloch & Pitts: Boolean circuit model of brain
+
+
+........................
+
+
+HUMAN
+INTELLIGENCE
+
+Intuition, Common sense,
+Judgement, Creativity,
+Beliefs etc
+
+The ability to demonstrate
+their intelligence by
+communicating effectively
+
+Reasoning and Critical
+thinking
+
+...................................
+
+
+ARTIFICIAL
+INTELLIGENCE
+
+Ability to simulate human
+behavior and cognitive
+processes
+
+Capture and preserve
+human expertise
+
+Fast Response. The ability
+to comprehend large
+amounts of data quickly.
+
+
+..................................
+
+"An agent is anything that can be
+viewed as perceiving its
+environment through sensors
+and acting upon that
+environment through effectors."
+
+..........................................
+
+Robotic agent:
+
+cameras and infrared range finders for
+sensors
+
+various motors for actuators
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+
+CHAPTER 3:-
+
+PEAS
+Use PEAS to describe task environment
+
+Performance measure
+
+Environment
+
+Actuators
+
+Sensors
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Example: Taxi driver
+
+Performance measure: safe, fast, comfortable (maximize profits)
+
+Environment: roads, other traffic, pedestrians, customers
+
+Actuators: steering, accelerator, brake, signal, horn
+
+Sensors: cameras, sonar, speedometer, GPS, odometer,
+accelerometer, engine sensors
+
+,,,,,,,,,,,,,,,,,,,,,
+
+ODOMETER
+an instrument for measuring the distance travelled by a wheeled vehicle.
+
+
+,,,,,,,,,,,,,,,
+
+
+PROPERTIES OF ENVIRONMENTS
+
+TYPES OF AGENTS
+
+PROBLEM SOLVING AGENT
+
+chapter 4
+
+DIRECTED GRAPHS
+
+A graph is also a set of nodes connected by links but where
+loops are allowed, and a node can have multiple parents.
+
+We have two kinds of graphs to deal with: directed graphs,
+where the links have direction (one-way streets).
+..............
+
+chapter 5:
+
+types of searches
+
+UNINFORMED
+INFROMED SEARCH
+
+BFS 
+DFS
+
+TRACE
+
+
+chapter 6:
+INFROMED HUERISTIC SEARCH
+
+
+chapter 7:
+
+GENETIC ALGORITHMS
+
+CHAPTER 8:
+EXPERT Systems
+
+INFERENCE ENGINE
+
+The inference engine can be viewed as the processor in an expert
+system that matches the facts contained in the working memory
+with the domain knowledge contained in the knowledge base, to
+draw conclusions about the problem.
+
+
+
+PROGRAMMING VS.
+KNOWLEDGE
+ENGINEERING
+
+
+CHAPTER 9:
+
+ALPHA-BETA PRUNING
+
+min max
+
+
+minmax function code ss
+
+https://www.youtube.com/watch?v=l-hh51ncgDI
+
+alpha for max value
+
+beta for min value
+
+https://www.youtube.com/watch?v=dEs_kbvu_0s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
